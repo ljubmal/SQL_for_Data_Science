@@ -2,10 +2,10 @@
 This repository contains SQL lessons from st course Sql for data science, that is a part of Learn SQL for Data Science offered by UC Davis.
 This is the first course in specialization [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science) which covers:
 
-* Sql for Data Science
-* Data Wrangling, Analysis and AB Testing with SQL
-* Distributed Computing with Spark SQL
-* SQL for Data Science Capstone Project
+1. Sql for Data Science
+2. Data Wrangling, Analysis and AB Testing with SQL
+3. Distributed Computing with Spark SQL
+4. SQL for Data Science Capstone Project
 
 ## Covered skills in this course
 
